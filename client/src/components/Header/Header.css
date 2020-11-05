@@ -35,3 +35,11 @@ html {
 .navbar-brand {
   color: white;
 }
+
+#root {
+  height: 100%;
+}
+
+.section {
+  height: 100%;
+}

@@ -8,12 +8,12 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 function App() {
   return (
     <Router>
-      <div className="container">
+      <div className="section">
           <Header />
           <Wrapper>
-          <Route exact path="/" component={AboutMe} />
           <Route exact path="/AboutMe" component={AboutMe} />
           <Route exact path="/Projects" component={Projects} />
+          <Route exact path="/" component={AboutMe} />
         </Wrapper>
         <Footer/>
       </div>
