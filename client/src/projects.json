@@ -40,6 +40,6 @@
         "title": "Employee Summary",
         "repolink": "https://github.com/Edibozu/template-engine-employee-summary",
         "image": "https://raw.githubusercontent.com/Edibozu/template-engine-employee-summary/master/Assets/sc3.png",
-        "description": "An employees database creator, used in the terminal, that will prompt the user about their staff. once the employees are assigned their roles, the app will create an HTML file that neatly organizes the information gathered by the user."
+        "description": "An employees database creator, used in the terminal, that will prompt the user about their staff. once the employees are assigned their roles, the app will create an HTML file that neatly organizes the information gathered by the user. Employee Summary runs in VS Code, no deployed site available."
     }
 ]
