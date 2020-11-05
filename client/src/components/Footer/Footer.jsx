@@ -3,7 +3,9 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <h1>This is my Footer</h1>
+            <div className="card-footer text-muted text-center" id="footer">
+                <p>Copyright <i className="far fa-copyright"> Eduardo Pineda 2020, All Rights Reserved.</i></p>
+            </div>
         </div>
     );
 };

@@ -49,3 +49,13 @@ ul li { padding: 5px 0px;
 #contact-text {
   padding-bottom: 50px;
 }
+
+.card-footer {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#footer p {
+  color: white;
+  font-size: 20px;
+}
