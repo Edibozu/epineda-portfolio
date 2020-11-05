@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Work Day Scheduler",
+        "repolink": "https://github.com/Edibozu/work-day-scheduler",
+        "deployedlink": "https://edibozu.github.io/work-day-scheduler/",
+        "image": "https://raw.githubusercontent.com/Edibozu/work-day-scheduler/master/screenshot.png",
+        "description": "The first project we are tackling as a group. Still a work in progress, but I couldn't be prouder of my team!"
+        
+    },
+    {
+        "title": "Happy Campers",
+        "repolink": "https://github.com/Edibozu/Happy-Campers-Take2",
+        "deployedlink": "https://crazyjoeshow.github.io/Happy-Campers-Take2/",
+        "image": "https://raw.githubusercontent.com/Edibozu/Happy-Campers-Take2/master/images/Olympic.png",
+        "description": "An interactive Work Day Scheduler that will help you plan your work week, and the time blocks will change color, depending on if an event has passed or is still to come."
+        
+    },
+    {
+        "title": "My First Portfolio",
+        "repolink": "https://github.com/Edibozu/eduardo-my-responsive-portfolio",
+        "deployedlink": "https://edibozu.github.io/eduardo-my-responsive-portfolio/",
+        "image": "https://raw.githubusercontent.com/Edibozu/eduardo-my-responsive-portfolio/master/Untitled.png",
+        "description": "My first attempt at a portfolio. I have made leaps in 2 weeks, and looking forward to adding to my arsenal"
+    },
+    {
+        "title": "Eat-da-Burger",
+        "repolink": "https://github.com/Edibozu/eat-da-burger",
+        "deployedlink": "https://eat-da-burger-ep.herokuapp.com/",
+        "image": "https://raw.githubusercontent.com/Edibozu/eat-da-burger/main/public/assets/images/sc2.png",
+        "description": "Eat-da-Burger is a simple, yet silly app where the user can add burgers, then devour them. Devoured burgers will move from left to right."
+    },
+    {
+        "title": "Gamers Alike",
+        "repolink": "https://github.com/Edibozu/gamers_alike",
+        "deployedlink": "https://gamers-alike.herokuapp.com/home",
+        "image": "https://raw.githubusercontent.com/Edibozu/gamers_alike/main/public/images/sc3.png",
+        "description": "Gamers Alike was our brain child for Project 2. Essentially a 'buddy finder' for gamers, that includes a 5-star raing system and also 'Gamer Attributes' to encourage good behavior and promote enjoyable play sessions."
+    },
+    {
+        "title": "Employee Summary",
+        "repolink": "https://github.com/Edibozu/template-engine-employee-summary",
+        "image": "https://raw.githubusercontent.com/Edibozu/template-engine-employee-summary/master/Assets/sc3.png",
+        "description": "An employees database creator, used in the terminal, that will prompt the user about their staff. once the employees are assigned their roles, the app will create an HTML file that neatly organizes the information gathered by the user."
+    }
+]
