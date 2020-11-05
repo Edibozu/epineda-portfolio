@@ -3,16 +3,15 @@ import "./Project.css";
 
 const Project = (props) => {
     return (
-        <div className="section">
+        <div className="container">
             <div className="row">
-                <div className="card col-sm-4" id="project-card">
                     <a href={props.image}>
                         <img className="center" alt="project-pic" src={props.image}></img>
                     </a>
                     <hr />
                     <div className="card-body">
                         <h5 className="text-center">{props.title}</h5><br/>
-                        <p>{props.description}</p>
+                        <p>{props.description}</p><br/>
                         <a className="btn btn-primary" href={props.repolink}>
                             <p>Repo Link</p>
                         </a>
@@ -20,8 +19,7 @@ const Project = (props) => {
                             <p>Deployed Link</p>
                         </a>
                     </div>
-                </div>
-            </div><br/>
+            </div>
         </div>
         
     );
