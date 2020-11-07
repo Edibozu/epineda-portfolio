@@ -1,99 +1,63 @@
-# Unit 20 React Homework: React Portfolio
+# Eduardo Pineda's Portfolio
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+## Description
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+This is my updated portfolio that uses strictly React JS. It includes information about who I am as a person, as well as contact information and links to my GitHub, LinkedIn, and my resume. Also, there is a Projects page that showcases 6 projects that I'm most proud of, along with with links to the deployed version and repo.
 
-## Requirements
+## Installation
 
-* Updated portfolio featuring 6 total projects
-
-* Use React
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-* Update GitHub profile with pinned repositories featuring those same projects
-
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-## Grading
-
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portfolio      | 90%    |
-| GitHub Profile | 10%    |
+Employee is installed by first cloning the repo from [Edibozu](https://github.com/Edibozu/epineda-portfolio). Once cloned, the code can be viewed in VS Code. The application itself is deployed on [Heroku](https://epineda-portfolio.herokuapp.com/).
+<br/><br/>
+This is the main page of the portfolio. you get to see my Navbar, and also the start of the "About Me" card.
+<br/><br/>
+![Application Screenshot](./client/src/assets/images/sc1.png)
+<br/><br/>
+Here is my "Contact" card, along with all of the links to reach me and also my resume.
+<br/><br/>
+![Application Screenshot](./client/src/assets/images/sc2.png)
+<br/><br/>
+Here is my "Portfolio" page, showcasing 6 of my projects
+<br/><br/>
+![Application Screenshot](./client/src/assets/images/sc3.png)
+<br/><br/><br/>
 
 
-## Instructions
+## Questions
 
-* [Updated Portfolio](#updated-portfolio)
+For any questions, contact me on any of the following links:
 
-* [Design](#design)
+Email: edibozu@gmail.com
 
-* [React](#react)
+Heroku: https://epineda-portfolio.herokuapp.com/
 
-* [Updated LinkedIn Profile](#updated-linkedin-profile)
+GitHub Repo: https://github.com/Edibozu/epineda-portfolio
 
-### Updated Portfolio
+LinkedIn: https://www.linkedin.com/in/eduardo-pineda-5595431b6/
 
-Your updated site should still have all of the content it previously had:
+## Contributions
 
-* Your name
+This application was aided by my fellow classmates during our after class study sessions.
 
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+## License
 
-* A link to a PDF of your resume with updated projects
+MIT License
 
-* A list of projects. For each project, make sure you have the following:
+Copyright (c) [2020] [Eduardo Pineda]
 
-  * Project title
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-  * Link to the deployed version
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-  * Link to the GitHub repository
-
-  * GIF or screenshot of the deployed application
-
-
-#### Design
-
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site. You may we
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-* If you want to go above and beyond, try using animations and react component libraries. Note 
-that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
-
-### React
-
-Additionally, this new portfolio should be created using React.
-
-At a minimum, your portfolio should include the following:
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-
-### Updated LinkedIn Profile 
-
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
